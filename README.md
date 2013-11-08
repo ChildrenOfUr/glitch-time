@@ -1,0 +1,1 @@
+coUlib is a dart library that is used by both coUclient and coUserver.
