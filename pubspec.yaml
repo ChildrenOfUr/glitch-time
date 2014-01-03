@@ -1,4 +1,4 @@
-name: coUlib
+name: glitchTime
 version: 0.0.0
 author: coU Development Team
-description: Shared libraries needed by both client and server.
+description: Glitch Calendar in dart
