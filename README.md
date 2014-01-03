@@ -1,1 +1,1 @@
-coUlib is a dart library that is used by both coUclient and coUserver.
+A dart port of the Glitch Calendar script.
