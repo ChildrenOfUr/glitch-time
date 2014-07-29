@@ -1,4 +1,5 @@
-name: glitchTime
-version: 0.0.0
-author: coU Development Team
+name: glitch_time
+version: 0.0.1
+author: coU Development Team <admin@childrenofur.com>
 description: Glitch Calendar in dart
+homepage: http://childrenofur.com
